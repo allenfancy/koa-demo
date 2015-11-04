@@ -1,6 +1,8 @@
 /**
  * Created by allen on 15/11/1.
  */
+
+    
 var koa = require('koa');
 
 var auth = require('koa-basic-auth');

@@ -2,7 +2,11 @@
  * Created by allen on 15/11/1.
  */
 
-
+/**
+ * 第三个程序：
+ * 一个非常简易的BLOG  DEMO
+ * @type {*|exports|module.exports}
+ */
 var render = require('./lib/render');
 var logger = require('koa-logger');
 var route = require('koa-route');
